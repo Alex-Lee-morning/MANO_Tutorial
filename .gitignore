@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+out/
+models/*.pkl
+models/*.npz
+mano_v1_2/models/*.pkl
+mano_v1_2/**/__pycache__/
