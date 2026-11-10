@@ -14,7 +14,7 @@ The conda environment is `mano`, Python 3.11. Create it with `conda create -n ma
 
 | Command | What it does |
 |---|---|
-| `python tutorial.py` | 按 TUTORIAL.md 生成掌心视图，并打印每一章的实测数字。 |
+| `python tutorial.py` | 按 TUTORIAL.md Generalize the hand. |
 | `python course.py` | Lessons 0–10. Skeleton, axis-angle, and the full forward equation on a 5-vertex finger. |
 | `python course.py 11` | Same equation on `mano_v1_2/models/MANO_RIGHT.pkl`. |
 | `python learn_mano.py` | Prints the 16-joint tree and writes `out/schematic_hand.png`. Bone lengths in that figure are a sketch. |
